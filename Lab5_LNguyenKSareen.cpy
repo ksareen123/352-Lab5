@@ -1,0 +1,13 @@
+Lab5_LNguyenKSareen.cpp
+Lab5_LNguyenKSareen.cpy
+Lab5_LNguyenKSareen.dll
+Lab5_LNguyenKSareen.eng
+Lab5_LNguyenKSareen.h
+Lab5_LNguyenKSareen.ini
+Lab5_LNguyenKSareen.ncb
+Lab5_LNguyenKSareen.pds
+Lab5_LNguyenKSareen.rc
+Lab5_LNguyenKSareen.sln
+Lab5_LNguyenKSareen.suo
+Lab5_LNguyenKSareen.vcproj
+resource.h
